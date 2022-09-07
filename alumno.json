@@ -1,0 +1,26 @@
+{
+    "Nombre": "Guerrero Estrada Jose Fernando",
+    "Promedio General": 91,
+    "Materias": [
+        {
+            "Nombre": "Contabilidad",
+            "Promedio": 78
+        },
+        {
+            "Nombre": "Inteligencia Artificial",
+            "Promedio": 98
+        },
+        {
+            "Nombre": "Base de Datos",
+            "Promedio": 92
+        },
+        {
+            "Nombre": "Desarrollo Web",
+            "Promedio": 87
+        },
+        {
+            "Nombre": "Matem\u00e1ticas IV",
+            "Promedio": 100
+        }
+    ]
+}
