@@ -240,7 +240,7 @@ def autenticar_usuario(usuario,password):
             ban_usuario = True
             break
     if ban_usuario :
-        print("Se encontro el usuario")
+        print("Se encontro el usuario.")
         if bcrypt.checkpw(password.encode('utf-8'),clave_c.encode('utf-8')):
             bandera = True
             usuario = user
